@@ -1,0 +1,16 @@
+numpy
+scipy
+Pillow
+cython
+matplotlib
+scikit-image
+tensorflow-gpu==1.13.1
+keras==2.1.0
+h5py
+imgaug
+Six
+pytest
+flake8
+Flask
+pycocotools
+scikit-image==0.16.2
